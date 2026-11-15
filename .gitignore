@@ -1,0 +1,13 @@
+# 构建产物
+PowerPulse.exe
+build.log
+tools/IconGen.exe
+
+# 界面预览图
+preview*.png
+
+# 运行数据(本地隐私数据: 用电记录/错误日志)
+data/
+
+# Intel 专有安装包(不可二次分发, 请从官网下载)
+tools/IntelXTUSetup.exe
